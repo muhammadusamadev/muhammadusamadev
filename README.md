@@ -1,6 +1,6 @@
 # Muhammad Usama
 
-Full-Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js) and **Next.js**.
+Full-Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js), **Next.js**, and cross-platform **Mobile Development**.
 
 [![Website](https://img.shields.io/badge/Website-muhammadusama.dev-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://muhammadusama.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadusamadeveloper/)
@@ -11,8 +11,8 @@ Full-Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, Re
 
 ### About
 
-- Full-Stack Developer with experience designing, building, and deploying modern web applications and scalable cloud backends.
-- Core expertise in React, Next.js (App Router), TypeScript, Node.js, Express.js, MongoDB, and BaaS architectures.
+- Full-Stack Developer with experience designing, building, and deploying modern web applications, scalable cloud backends, and cross-platform mobile apps.
+- Core expertise in React, Next.js (App Router), React Native, TypeScript, Node.js, Express.js, MongoDB, and modern BaaS/Cloud architectures.
 - Focus on clean architecture, responsive design, performance optimization, and reliable cloud deployments.
 
 ---
@@ -21,7 +21,7 @@ Full-Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, Re
 
 <table>
   <tr>
-    <td width="22%" valign="top"><strong>Frontend</strong></td>
+    <td width="22%" valign="top"><strong>Frontend & Web</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -29,8 +29,16 @@ Full-Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, Re
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+      <img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white" alt="Sanity CMS" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" valign="top"><strong>Mobile</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
     </td>
   </tr>
   <tr>
@@ -56,6 +64,14 @@ Full-Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, Re
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" valign="top"><strong>AI & Workflow</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+      <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+      <img src="https://img.shields.io/badge/AI--Assisted_Workflow-0A66C2?style=flat-square&logo=openai&logoColor=white" alt="AI-Assisted Workflow" />
     </td>
   </tr>
 </table>
