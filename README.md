@@ -1,99 +1,69 @@
 # Muhammad Usama
 
-Full-stack web and app developer building with **Next.js**, **TypeScript**, **Supabase/PostgreSQL**, and **React Native/Expo**.
+Web & app developer · Karachi, Pakistan
 
-[![Website](https://img.shields.io/badge/Website-muhammadusama.dev-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://muhammadusama.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadusamadeveloper/)
-[![Email](https://img.shields.io/badge/Email-chat@muhammadusama.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chat@muhammadusama.dev)
-[![Facebook](https://img.shields.io/badge/Facebook-muhammadusamadev-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/muhammadusamadev)
+I build with **Next.js**, **React Native**, and **TypeScript**. My current projects are Framvo, a photo-campaign platform, and Chatzora, an AI assistant platform.
 
----
+[Portfolio](https://muhammadusama.dev) · [LinkedIn](https://www.linkedin.com/in/muhammadusamadeveloper/) · [Email](mailto:chat@muhammadusama.dev)
 
-### About
+## About
 
-- Full-Stack Developer with experience designing, building, and deploying modern web applications, scalable cloud backends, and cross-platform mobile apps.
-- Core expertise in React, Next.js (App Router), React Native, TypeScript, Node.js, Express.js, MongoDB, and modern BaaS/Cloud architectures.
-- Focus on clean architecture, responsive design, performance optimization, and reliable cloud deployments.
-- I build my personal projects independently using an AI-assisted workflow. Framvo is available on Google Play, and the Chatzora mobile app is preparing for launch.
+I work across the interface, database, APIs, and mobile app. I build my personal projects independently and look after the releases and fixes that come afterward.
 
----
+I use Codex, Cursor, and Claude Code in my workflow, alongside code review and testing. I’m open to freelance projects and full-time opportunities, locally or remotely.
 
-### Technical Skills
+## Toolkit
 
-<table>
-  <tr>
-    <td width="22%" valign="top"><strong>Frontend & Web</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-      <img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white" alt="Sanity CMS" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-  </tr>
-  <tr>
-    <td width="22%" valign="top"><strong>Mobile</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-    </td>
-  </tr>
-  <tr>
-    <td width="22%" valign="top"><strong>Backend & DB</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-      <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" alt="Resend" />
-      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-    </td>
-  </tr>
-  <tr>
-    <td width="22%" valign="top"><strong>Cloud & Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry error monitoring" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-    </td>
-  </tr>
-  <tr>
-    <td width="22%" valign="top"><strong>AI & Workflow</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-      <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-      <img src="https://img.shields.io/badge/AI--Assisted_Workflow-0A66C2?style=flat-square&logo=openai&logoColor=white" alt="AI-Assisted Workflow" />
-    </td>
-  </tr>
-</table>
+### Languages & fundamentals
 
----
+<img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/javascript.svg" width="18" height="18" alt="" /> JavaScript &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/typescript.svg" width="18" height="18" alt="" /> TypeScript &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/html5.svg" width="18" height="18" alt="" /> HTML &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/css.svg" width="18" height="18" alt="" /> CSS &nbsp; · &nbsp; SQL
 
-### Featured Projects
+### Web & UI
 
-| Project | Description | Link |
-| :--- | :--- | :---: |
-| **Chatzora** | AI assistant platform with a Next.js dashboard and an Expo mobile app. Mobile app preparing for launch. | [Website](https://chatzora.com) |
-| **Framvo** | Web and mobile platform for frame and background campaigns, photo personalization, and community content. Android app published on Google Play. | [Website](https://framvo.com) · [Google Play](https://play.google.com/store/apps/details?id=com.framvo.app) |
-| **SpinWorld** | Global spinner challenge with country detection, live spin totals, and a Firebase Firestore country leaderboard | [spinworld.vercel.app](https://spinworld.vercel.app) |
-| **Portfolio** | Official developer portfolio built with React, TypeScript, and Tailwind CSS | [muhammadusama.dev](https://muhammadusama.dev) |
+<img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/react.svg" width="18" height="18" alt="" /> React &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/nextdotjs.svg" width="18" height="18" alt="" /> Next.js &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/tailwindcss.svg" width="18" height="18" alt="" /> Tailwind CSS &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/shadcnui.svg" width="18" height="18" alt="" /> shadcn/ui &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/sanity.svg" width="18" height="18" alt="" /> Sanity
 
----
+### Mobile
 
-### Contact
+<img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/react.svg" width="18" height="18" alt="" /> React Native &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/expo.svg" width="18" height="18" alt="" /> Expo &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/expo.svg" width="18" height="18" alt="" /> Expo Router &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/expo.svg" width="18" height="18" alt="" /> EAS
 
-- Website: [muhammadusama.dev](https://muhammadusama.dev)
-- LinkedIn: [linkedin.com/in/muhammadusamadeveloper](https://www.linkedin.com/in/muhammadusamadeveloper/)
-- Email: [chat@muhammadusama.dev](mailto:chat@muhammadusama.dev)
-- Facebook: [facebook.com/muhammadusamadev](https://web.facebook.com/muhammadusamadev)
+### Backend & data
+
+<img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/nodedotjs.svg" width="18" height="18" alt="" /> Node.js &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/express.svg" width="18" height="18" alt="" /> Express &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/postgresql.svg" width="18" height="18" alt="" /> PostgreSQL &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/mongodb.svg" width="18" height="18" alt="" /> MongoDB &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/supabase.svg" width="18" height="18" alt="" /> Supabase &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/firebase.svg" width="18" height="18" alt="" /> Firebase &nbsp; · &nbsp; pgvector &nbsp; · &nbsp; REST APIs
+
+### Cloud & services
+
+<img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/cloudflare.svg" width="18" height="18" alt="" /> Cloudflare R2 &nbsp; · &nbsp; ImageKit &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/resend.svg" width="18" height="18" alt="" /> Resend &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/vercel.svg" width="18" height="18" alt="" /> Vercel &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/netlify.svg" width="18" height="18" alt="" /> Netlify &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/lemonsqueezy.svg" width="18" height="18" alt="" /> Lemon Squeezy
+
+### Development workflow
+
+<img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/git.svg" width="18" height="18" alt="" /> Git &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/github.svg" width="18" height="18" alt="" /> GitHub &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/vite.svg" width="18" height="18" alt="" /> Vite &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/turborepo.svg" width="18" height="18" alt="" /> Turborepo &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/postman.svg" width="18" height="18" alt="" /> Postman &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/sentry.svg" width="18" height="18" alt="" /> Sentry
+
+### AI coding tools
+
+Codex &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/cursor.svg" width="18" height="18" alt="" /> Cursor &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/muhammadusamadev/MuhammadUsama/main/public/tools/claude.svg" width="18" height="18" alt="" /> Claude Code
+
+## Projects
+
+### Framvo
+
+A web and Android platform for photo-frame campaigns. Creators publish artwork; people add a photo, adjust it, and share the result.
+
+[Website](https://framvo.com) · [Google Play](https://play.google.com/store/apps/details?id=com.framvo.app) · [Case study](https://muhammadusama.dev/projects/framvo)
+
+### Chatzora
+
+AI assistants that answer questions from a business’s documents and website content, with a dashboard, chat widget, and mobile inbox. The mobile app is preparing for launch.
+
+[Website](https://chatzora.com) · [Case study](https://muhammadusama.dev/projects/chatzora)
+
+### Spinworld
+
+A spinner challenge with live totals and country rankings, built with Next.js and Firebase Firestore.
+
+[Website](https://spinworld.vercel.app) · [Case study](https://muhammadusama.dev/projects/spinworld)
+
+## More
+
+[About me](https://muhammadusama.dev/about) · [Engineering notes](https://muhammadusama.dev/writing) · [Creative Lab](https://muhammadusama.dev/lab) · [Résumé](https://muhammadusama.dev/resume)
+
+[Contact](https://muhammadusama.dev/contact) · [Facebook](https://web.facebook.com/muhammadusamadev)
