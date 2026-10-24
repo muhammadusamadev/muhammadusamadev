@@ -1,6 +1,6 @@
 # Muhammad Usama
 
-Full-Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js), **Next.js**, and cross-platform **Mobile Development**.
+Full-stack web and app developer building with **Next.js**, **TypeScript**, **Supabase/PostgreSQL**, and **React Native/Expo**.
 
 [![Website](https://img.shields.io/badge/Website-muhammadusama.dev-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://muhammadusama.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadusamadeveloper/)
@@ -14,6 +14,7 @@ Full-Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, Re
 - Full-Stack Developer with experience designing, building, and deploying modern web applications, scalable cloud backends, and cross-platform mobile apps.
 - Core expertise in React, Next.js (App Router), React Native, TypeScript, Node.js, Express.js, MongoDB, and modern BaaS/Cloud architectures.
 - Focus on clean architecture, responsive design, performance optimization, and reliable cloud deployments.
+- I build my personal projects independently using an AI-assisted workflow. Framvo is available on Google Play, and the Chatzora mobile app is preparing for launch.
 
 ---
 
@@ -55,7 +56,7 @@ Full-Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, Re
     </td>
   </tr>
   <tr>
-    <td width="22%" valign="top"><strong>Cloud & DevOps</strong></td>
+    <td width="22%" valign="top"><strong>Cloud & Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
@@ -63,6 +64,7 @@ Full-Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, Re
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry error monitoring" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
     </td>
   </tr>
@@ -82,9 +84,9 @@ Full-Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, Re
 
 | Project | Description | Link |
 | :--- | :--- | :---: |
-| **ChatZora** | AI agent platform for building intelligent business & customer support assistants | [chatzora.com](https://chatzora.com) |
-| **Framvo** | Creative frame and background sharing platform with custom CMS & admin dashboard | [framvo.com](https://framvo.com) |
-| **SpinWorld** | Interactive global web platform featuring real-time location detection & leaderboards | [spinworld.vercel.app](https://spinworld.vercel.app) |
+| **Chatzora** | AI assistant platform with a Next.js dashboard and an Expo mobile app. Mobile app preparing for launch. | [Website](https://chatzora.com) |
+| **Framvo** | Web and mobile platform for frame and background campaigns, photo personalization, and community content. Android app published on Google Play. | [Website](https://framvo.com) · [Google Play](https://play.google.com/store/apps/details?id=com.framvo.app) |
+| **SpinWorld** | Global spinner challenge with country detection, live spin totals, and a Firebase Firestore country leaderboard | [spinworld.vercel.app](https://spinworld.vercel.app) |
 | **Portfolio** | Official developer portfolio built with React, TypeScript, and Tailwind CSS | [muhammadusama.dev](https://muhammadusama.dev) |
 
 ---
