@@ -10,37 +10,69 @@ I build with **Next.js**, **React Native**, and **TypeScript**. My current proje
 
 I work across the interface, database, APIs, and mobile app. I build my personal projects independently and look after the releases and fixes that come afterward.
 
-I use Codex, Cursor, and Claude Code in my workflow, alongside code review and testing. I’m open to freelance projects and full-time opportunities, locally or remotely.
+I use Codex, Cursor, Claude Code, Antigravity, and OpenCode in my workflow, alongside code review and testing. I’m open to freelance projects and full-time opportunities, locally or remotely.
 
 ## Toolkit
 
 ### Languages & fundamentals
 
-<img src="https://muhammadusama.dev/tools/javascript.svg" width="18" height="18" alt="" /> JavaScript &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/typescript.svg" width="18" height="18" alt="" /> TypeScript &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/html5.svg" width="18" height="18" alt="" /> HTML &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/css.svg" width="18" height="18" alt="" /> CSS &nbsp; · &nbsp; SQL
+<img src="https://muhammadusama.dev/badges/tools/javascript.svg" alt="JavaScript" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/typescript.svg" alt="TypeScript" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/html.svg" alt="HTML" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/css.svg" alt="CSS" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/sql.svg" alt="SQL" height="28" />
 
 ### Web & UI
 
-<img src="https://muhammadusama.dev/tools/react.svg" width="18" height="18" alt="" /> React &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/nextdotjs.svg" width="18" height="18" alt="" /> Next.js &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/tailwindcss.svg" width="18" height="18" alt="" /> Tailwind CSS &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/shadcnui.svg" width="18" height="18" alt="" /> shadcn/ui &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/sanity.svg" width="18" height="18" alt="" /> Sanity
+<img src="https://muhammadusama.dev/badges/tools/react.svg" alt="React" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/next-js.svg" alt="Next.js" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/tailwind-css.svg" alt="Tailwind CSS" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/shadcn-ui.svg" alt="shadcn/ui" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/sanity.svg" alt="Sanity" height="28" />
 
 ### Mobile
 
-<img src="https://muhammadusama.dev/tools/react.svg" width="18" height="18" alt="" /> React Native &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/expo.svg" width="18" height="18" alt="" /> Expo &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/expo.svg" width="18" height="18" alt="" /> Expo Router &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/expo.svg" width="18" height="18" alt="" /> EAS
+<img src="https://muhammadusama.dev/badges/tools/react-native.svg" alt="React Native" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/expo.svg" alt="Expo" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/expo-router.svg" alt="Expo Router" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/eas.svg" alt="EAS" height="28" />
 
 ### Backend & data
 
-<img src="https://muhammadusama.dev/tools/nodedotjs.svg" width="18" height="18" alt="" /> Node.js &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/express.svg" width="18" height="18" alt="" /> Express &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/postgresql.svg" width="18" height="18" alt="" /> PostgreSQL &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/mongodb.svg" width="18" height="18" alt="" /> MongoDB &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/supabase.svg" width="18" height="18" alt="" /> Supabase &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/firebase.svg" width="18" height="18" alt="" /> Firebase &nbsp; · &nbsp; pgvector &nbsp; · &nbsp; REST APIs
+<img src="https://muhammadusama.dev/badges/tools/node-js.svg" alt="Node.js" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/express.svg" alt="Express" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/postgresql.svg" alt="PostgreSQL" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/mongodb.svg" alt="MongoDB" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/supabase.svg" alt="Supabase" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/firebase.svg" alt="Firebase" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/pgvector.svg" alt="pgvector" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/rest-apis.svg" alt="REST APIs" height="28" />
 
 ### Cloud & services
 
-<img src="https://muhammadusama.dev/tools/cloudflare.svg" width="18" height="18" alt="" /> Cloudflare R2 &nbsp; · &nbsp; ImageKit &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/resend.svg" width="18" height="18" alt="" /> Resend &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/vercel.svg" width="18" height="18" alt="" /> Vercel &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/netlify.svg" width="18" height="18" alt="" /> Netlify &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/lemonsqueezy.svg" width="18" height="18" alt="" /> Lemon Squeezy
+<img src="https://muhammadusama.dev/badges/tools/cloudflare-r2.svg" alt="Cloudflare R2" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/imagekit.svg" alt="ImageKit" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/resend.svg" alt="Resend" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/vercel.svg" alt="Vercel" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/netlify.svg" alt="Netlify" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/lemon-squeezy.svg" alt="Lemon Squeezy" height="28" />
 
 ### Development workflow
 
-<img src="https://muhammadusama.dev/tools/git.svg" width="18" height="18" alt="" /> Git &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/github.svg" width="18" height="18" alt="" /> GitHub &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/vite.svg" width="18" height="18" alt="" /> Vite &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/turborepo.svg" width="18" height="18" alt="" /> Turborepo &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/postman.svg" width="18" height="18" alt="" /> Postman &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/sentry.svg" width="18" height="18" alt="" /> Sentry
+<img src="https://muhammadusama.dev/badges/tools/git.svg" alt="Git" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/github.svg" alt="GitHub" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/vite.svg" alt="Vite" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/turborepo.svg" alt="Turborepo" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/postman.svg" alt="Postman" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/sentry.svg" alt="Sentry" height="28" />
 
 ### AI coding tools
 
-Codex &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/cursor.svg" width="18" height="18" alt="" /> Cursor &nbsp; · &nbsp; <img src="https://muhammadusama.dev/tools/claude.svg" width="18" height="18" alt="" /> Claude Code
+<img src="https://muhammadusama.dev/badges/tools/codex.svg" alt="Codex" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/cursor.svg" alt="Cursor" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/claude-code.svg" alt="Claude Code" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/antigravity.svg" alt="Antigravity" height="28" />
+<img src="https://muhammadusama.dev/badges/tools/opencode.svg" alt="OpenCode" height="28" />
 
 ## Projects
 
