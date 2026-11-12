@@ -2,7 +2,7 @@
 
 Web & app developer · Karachi, Pakistan
 
-I build with **Next.js**, **React Native**, and **TypeScript**. My current projects are Framvo, a photo-campaign platform, and Chatzora, an AI assistant platform.
+I build with **Next.js**, **React Native**, and **TypeScript**. My current projects include Framvo, a photo-campaign platform; Chatzora, an AI assistant platform; and Al-Maktaba, a multilingual mobile library.
 
 [Portfolio](https://muhammadusama.dev) · [LinkedIn](https://www.linkedin.com/in/muhammadusamadeveloper/) · [Email](mailto:chat@muhammadusama.dev)
 
@@ -52,9 +52,17 @@ A web and Android platform for photo-frame campaigns. Creators publish artwork; 
 
 ### Chatzora
 
-AI assistants that answer questions from a business’s documents and website content, with a dashboard, chat widget, and mobile inbox. The mobile app is preparing for launch.
+AI assistants that answer questions from a business’s documents and website content, with a dashboard, chat widget, and mobile inbox. The Android app is available on Google Play.
 
-[Website](https://chatzora.com) · [Case study](https://muhammadusama.dev/projects/chatzora)
+[Website](https://chatzora.com) · [Google Play](https://play.google.com/store/apps/details?id=com.chatzora.dashboard) · [Case study](https://muhammadusama.dev/projects/chatzora)
+
+### Al-Maktaba
+
+A mobile library for Arabic and Urdu books, with PDF reading, offline downloads, saved reading state, and Arabic, Urdu, and English interfaces. Built with React Native/Expo, Supabase, and Cloudflare R2, alongside an Astro website.
+
+The website is live. The Android release is in preparation and is not yet on Google Play.
+
+[Website](https://almaktaba.muhammadusama.dev) · [Case study](https://muhammadusama.dev/projects/almaktaba)
 
 ### Spinworld
 
